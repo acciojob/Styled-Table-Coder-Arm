@@ -10,3 +10,6 @@ thead{
 tr:nth-child(2n){
 	background-color: lightgrey;
 }
+tr td{
+	text-align: center;
+}
